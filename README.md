@@ -14,6 +14,6 @@ View my project: https://www.vietspace.me/giupbankhoehon/
 - Weight control
 - Mental health
 
-### Languages & Tools
+### Tools used
 - WordPress
 - Photoshop
