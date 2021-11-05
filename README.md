@@ -1,5 +1,5 @@
 ## Giup Ban Khoe Hon (Better Health)
-A blog sharing physical and mental health knowledge.
+A blog sharing physical and mental health knowledge.<br>
 Researched, copywritten, designed by [Viet Vo Hoang](https://github.com/viet-v)
 
 ### Project details
